@@ -1,2 +1,2 @@
 # Android_MapIntegration
-using Google ..
+using Google API..
